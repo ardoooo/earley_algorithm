@@ -1,0 +1,1 @@
+add_library(Library SHARED state.cpp grammar.cpp earley_algorithm.cpp)
